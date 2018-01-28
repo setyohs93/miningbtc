@@ -1,5 +1,5 @@
 #Auto Mining BTC  Recoder By ShS93
-#  SEDIKIT BAKAL ADA YANG ERROR :)
+# Edit Sedikit Bakal Ada Yang Error :)
 
 <?php
 date_default_timezone_set("Asia/Bangkok");
